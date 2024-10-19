@@ -12,7 +12,7 @@
       class="my-4"
       :targetNetwork="originNetwork"
       :targetNetworkId="originNetworkId"
-      :currency="ETH"
+      :currency="HTR"
       :decimals="18"
     />
 

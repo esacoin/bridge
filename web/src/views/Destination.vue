@@ -12,9 +12,9 @@
       class="my-4"
       :targetNetwork="destinationNetwork"
       :targetNetworkId="destinationNetworkId"
-      :currency="ONE"
-      :decimals="4"
-      :isNewNetwork="true"
+      :currency="IFE"
+      :decimals="18"
+      :isNewNetwork="false"
     />
 
     <form class="w-96 mt-8 mx-auto">
